@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #Newest Eclipse http://www.eclipse.org/downloads/
+sudo snap install eclipse --classic
+
 #Different Pydev versions http://www.pydev.org/update_sites/
 
 #Anaconda https://www.anaconda.com/distribution/#download-section
