@@ -49,3 +49,4 @@ sudo python3 -m pip install scikit-learn
 sudo python3 -m pip install scikit-neuralnetwork
 sudo python3 -m pip install sklearn
 sudo python3 -m pip install  xgboost
+sudo python3 -m pip install  gym
