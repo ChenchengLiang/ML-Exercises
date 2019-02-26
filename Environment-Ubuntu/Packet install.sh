@@ -38,6 +38,8 @@ sudo python3 -m pip install h5py
 sudo python3 -m pip install mathplotlib
 sudo python3 -m pip install seaborn
 sudo python3 -m pip install pyglet
+sudo apt-get install python3-tk
+
 
 
 #Frame work
