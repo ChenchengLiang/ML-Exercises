@@ -54,3 +54,5 @@ sudo python3 -m pip install  xgboost
 sudo python3 -m pip install  gym
 sudo python3 -m pip install  pyltr
 sudo apt-get install libhdf5-serial-dev
+pip install --upgrade gensim
+
