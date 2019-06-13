@@ -53,6 +53,6 @@ sudo python3 -m pip install sklearn
 sudo python3 -m pip install  xgboost
 sudo python3 -m pip install  gym
 sudo python3 -m pip install  pyltr
+sudo python3 -m pip install  gensim
 sudo apt-get install libhdf5-serial-dev
-sudo pip install --upgrade gensim
 
