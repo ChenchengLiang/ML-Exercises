@@ -57,3 +57,6 @@ sudo python3 -m pip install  gensim
 sudo python3 -m pip install  nltk
 sudo apt-get install libhdf5-serial-dev
 
+sudo python3 -m pip install  graphviz
+sudo python3 -m pip install  pydot
+
