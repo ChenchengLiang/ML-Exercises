@@ -14,6 +14,7 @@ sudo apt install openjdk-11-jdk-headless
 sudo apt install ecj                    
 sudo apt install openjdk-8-jdk-headless 
 sudo apt install openjdk-9-jdk-headless 
+conda install -c anaconda openjdk
 
 Anaconda
 #Jupyter with pip
